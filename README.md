@@ -24,7 +24,7 @@
 <a href="https://twitter.com/satyarajawasth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyarajawasth1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyarajawasth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyarajawasth1" height="30" width="40" /></a>
 <a href="https://fb.com/satyarajawasthismart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satyarajawasthismart" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucqgeqbvlj0uubew-zlhdq-q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqgeqbvlj0uubew-zlhdq-q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCqgEqBVlJ0uUbeW-zLhDQ-Q/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqgeqbvlj0uubew-zlhdq-q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
