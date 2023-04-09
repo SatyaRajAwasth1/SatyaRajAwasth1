@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/SatyaRajAwasth1/SatyaRajAwasth1/blob/main/programming%20banner.gif)](https://satyarajawasthi.com.np)
+[![MasterHead](https://github.com/SatyaRajAwasth1/SatyaRajAwasth1/blob/main/github-contribution-grid-snake.svg)](https://satyarajawasthi.com.np)
 <h1 align="center">Hi 👋, I'm Satya Raj Awasthi</h1>
 <h3 align="center">A passionate learner and IT student gathering ideas on different tools and technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/SatyaRajAwasth1/SatyaRajAwasth1/blob/main/code_cup.gif">
