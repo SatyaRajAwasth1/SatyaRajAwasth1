@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SatyaRajAwasth1](https://github.com/SatyaRajAwasth1)
-
 - 📝 I sometimes write articles on [http://mastr.satyarajawasthi.com.np](http://mastr.satyarajawasthi.com.np)
 
 - 💬 Ask me about **Java, Spring, C++, C**
