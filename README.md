@@ -13,9 +13,7 @@
 
 - 📝 I sometimes write articles on [http://mastr.satyarajawasthi.com.np](http://mastr.satyarajawasthi.com.np)
 
-- 💬 Ask me about **Java, Spring, C++, C**
-
-- ⚡ Love **Spirituality, Yoga & Meditation, Learning and Teaching**
+- 💬 Ask me about **Java, Spring, Go, Databases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
